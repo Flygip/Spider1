@@ -4,9 +4,9 @@
 Tool used:Pycharm,chrome,MongoDB,Robo 3T
 
 - **Step one**：use mobilephoto to find comments
-![]()
+![step_one](https://github.com/Flygip/Spider1/blob/master/instruct_picture/step_one.jpg)
 - **Step two**: copy the link in the mobilephoto
-![]()
+![step_two]()
 - **Step three**: open the link in computer with the pioneer model and find the json file
 ![]()
 - **Step four**: coding
