@@ -1,8 +1,10 @@
 # Spider1
 ## A spider to scratch movie comments
-
-Tool used:Pycharm,chrome,MongoDB,Robo 3T
-
+---
+**(Example:to scratch movie《The Devil Child of Nezha Comes into the World 》)**
+---
+Tool used:Pycharm,Google Chrome,MongoDB,Robo 3T
+---
 - **Step one**：use mobilephoto to find comments
 ![step_one](https://github.com/Flygip/Spider1/blob/master/instruct_picture/step_one.jpg)
 
