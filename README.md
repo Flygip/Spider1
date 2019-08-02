@@ -7,11 +7,9 @@ Tool used:Pycharm,chrome,MongoDB,Robo 3T
 ![]()
 - **Step two**: copy the link in the mobilephoto
 ![]()
-- **Step three**: open the link in computer with the pioneer model
+- **Step three**: open the link in computer with the pioneer model and find the json file
 ![]()
-- **Step four**: find the json file
+- **Step four**: coding
 ![]()
-- **Step five**: coding
-![]()
-- **Step six**: result(show in Robo 3T)
+- **Step five**: result(show in Robo 3T)
 ![]()
