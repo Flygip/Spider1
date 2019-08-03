@@ -7,13 +7,13 @@ Tool used:Pycharm,Google Chrome,MongoDB,Robo 3T
 ---
 **Analyse result:**
 - ![score](https://github.com/Flygip/Spider1/blob/master/instruct_picture/score.png)
-- [Code Links]()
+- [Code Links](https://github.com/Flygip/Spider1/blob/master/score.py)
 - ![gender](https://github.com/Flygip/Spider1/blob/master/instruct_picture/gender.png)
-- [Code Links]()
+- [Code Links](https://github.com/Flygip/Spider1/blob/master/gender.py)
 - ![level](https://github.com/Flygip/Spider1/blob/master/instruct_picture/level.png)
-- [Code Links]()
+- [Code Links](https://github.com/Flygip/Spider1/blob/master/level.py)
 - ![comments](https://github.com/Flygip/Spider1/blob/master/instruct_picture/comments.jpg)
-- [Code Links]()
+- [Code Links](https://github.com/Flygip/Spider1/blob/master/comments.py)
 
 ---
 - ### **Step one**：use mobilephoto to find comments
