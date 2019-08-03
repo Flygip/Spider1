@@ -5,6 +5,17 @@
 ---
 Tool used:Pycharm,Google Chrome,MongoDB,Robo 3T
 ---
+**Analyse result:**
+- ![score]()
+- [Code Links]()
+- ![gender]()
+- [Code Links]()
+- ![level]()
+- [Code Links]()
+- ![comments]()
+- [Code Links]()
+
+---
 - ### **Step one**：use mobilephoto to find comments
 ![step_one](https://github.com/Flygip/Spider1/blob/master/instruct_picture/step_one.jpg)
 
