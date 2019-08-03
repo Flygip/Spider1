@@ -6,13 +6,13 @@
 Tool used:Pycharm,Google Chrome,MongoDB,Robo 3T
 ---
 **Analyse result:**
-- ![score]()
+- ![score](https://github.com/Flygip/Spider1/blob/master/instruct_picture/score.png)
 - [Code Links]()
-- ![gender]()
+- ![gender](https://github.com/Flygip/Spider1/blob/master/instruct_picture/gender.png)
 - [Code Links]()
-- ![level]()
+- ![level](https://github.com/Flygip/Spider1/blob/master/instruct_picture/level.png)
 - [Code Links]()
-- ![comments]()
+- ![comments](https://github.com/Flygip/Spider1/blob/master/instruct_picture/comments.jpg)
 - [Code Links]()
 
 ---
